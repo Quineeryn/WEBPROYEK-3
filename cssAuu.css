@@ -189,309 +189,315 @@ image-4s */
 
 /* Gaya untuk elemen .page-registered */
 .page-registered {
-    background: #fff7ef;
-    width: 1440px;
-    height: 860px;
-    position: relative;
-    overflow: hidden;
- }
- 
- /* Gaya untuk elemen .frame-8 */
- .frame-8 {
-    border-radius: 48px;
-    display: flex;
-    flex-direction: row;
-    gap: 11px;
-    align-items: center;
-    justify-content: flex-start;
-    width: 1156px;
-    height: 519px;
-    position: absolute;
-    left: 181px;
-    top: 154px;
- }
- 
- /* Gaya untuk elemen .frame-4 */
- .frame-4 {
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    width: 325px;
-    height: 452px;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .frame-42 */
- .frame-42 {
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .frame-43 */
- .frame-43 {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .cv-maker-platform */
- .cv-maker-platform {
-    color: #265172;
-    text-align: left;
-    font: 700 14px/100% 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .frame-5 */
- .frame-5 {
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .hi-welcome-to-cravitae */
- .hi-welcome-to-cravitae {
-    color: #265172;
-    text-align: left;
-    font: 400 56px/100% 'Dela Gothic One', sans-serif;
-    position: relative;
-    width: 490px;
- }
- 
- /* Gaya untuk elemen .discover-new-job-opportunities-with-connect-and-expand-your-network */
- .discover-new-job-opportunities-with-connect-and-expand-your-network {
-    color: #585858;
-    text-align: left;
-    font: 600 16px/140% 'Montserrat', sans-serif;
-    position: relative;
-    width: 325.47px;
- }
- 
- /* Gaya untuk elemen .frame-7 */
- .frame-7 {
-    display: flex;
-    flex-direction: row;
-    gap: 21px;
-    align-items: center;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .frame-2 */
- .frame-2 {
-    background: #c3dce3;
-    border-radius: 12px;
-    padding: 4px 18px 4px 18px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    height: 36px;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .create-your-own */
- .create-your-own {
-    color: #265172;
-    text-align: left;
-    font: 700 14px/100% 'Montserrat', sans-serif;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
- }
- 
- /* Gaya untuk elemen .frame-3 */
- .frame-3 {
-    background: #c3dce3;
-    border-radius: 12px;
-    padding: 4px 18px 4px 18px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    height: 36px;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .explore */
- .explore {
-    color: #265172;
-    text-align: left;
-    font: 700 14px/100% 'Montserrat', sans-serif;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
- }
- 
- /* Gaya untuk elemen .frame-82 */
- .frame-82 {
-    display: flex;
-    flex-direction: row;
-    gap: 40px;
-    align-items: center;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .frame-32 */
- .frame-32 {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .frame-33 */
- .frame-33 {
-    display: flex;
-    flex-direction: row;
-    gap: 8px;
-    align-items: center;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .vector */
- .vector {
-    flex-shrink: 0;
-    position: relative;
-    overflow: visible;
- }
- 
- /* Gaya untuk elemen ._4 */
- ._4 {
-    text-align: left;
-    position: relative;
- }
- 
- /* Gaya untuk elemen ._4-span */
- ._4-span {
-    color: #000000;
-    font: 700 40px/100% 'Montserrat', sans-serif;
- }
- 
- /* Gaya untuk elemen ._4-span2 */
- ._4-span2 {
-    color: #000000;
-    font: 400 36px/100% 'Montserrat', sans-serif;
- }
- 
- /* Gaya untuk elemen ._4-span3 */
- ._4-span3 {
-    color: #2b788b;
-    font: 400 36px/100% 'Dela Gothic One', sans-serif;
- }
- 
- /* Gaya untuk elemen .clilent */
- .clilent {
-    color: #585858;
-    text-align: left;
-    font: 600 16px/140% 'Montserrat', sans-serif;
-    position: relative;
-    width: 80px;
- }
- 
- /* Gaya untuk elemen .vector-1 */
- .vector-1 {
-    flex-shrink: 0;
-    position: relative;
-    overflow: visible;
- }
- 
- /* Gaya untuk elemen .frame-83 */
- .frame-83 {
-    display: flex;
-    flex-direction: row;
-    gap: 8px;
-    align-items: center;
-    justify-content: flex-start;
-    flex-shrink: 0;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .vector2 */
- .vector2 {
-    flex-shrink: 0;
-    position: relative;
-    overflow: visible;
- }
- 
- /* Gaya untuk elemen ._100 */
- ._100 {
-    text-align: left;
-    position: relative;
- }
- 
- /* Gaya untuk elemen ._100-span */
- ._100-span {
-    color: #000000;
-    font: 700 40px/100% 'Montserrat', sans-serif;
- }
- 
- /* Gaya untuk elemen ._100-span2 */
- ._100-span2 {
-    color: #000000;
-    font: 700 36px/100% 'Montserrat', sans-serif;
- }
- 
- /* Gaya untuk elemen ._100-span3 */
- ._100-span3 {
-    color: #2b788b;
-    font: 700 36px/100% 'Montserrat', sans-serif;
- }
- 
- /* Gaya untuk elemen .likes */
- .likes {
-    color: #585858;
-    text-align: left;
-    font: 600 16px/140% 'Montserrat', sans-serif;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .frame-24 */
- .frame-24 {
-    flex-shrink: 0;
-    width: 605px;
-    height: 471px;
-    position: relative;
- }
- 
- /* Gaya untuk elemen .image-4s */
- .image-4s {
-    width: 463px;
-    height: 534px;
-    position: absolute;
-    left: 850px;
-    top: 222px;
- }
- 
+   background: #fff7ef;
+   width: 1440px;
+   height: 860px;
+   position: relative;
+   overflow: hidden;
+}
 
+/* Gaya untuk elemen .frame-8 */
+.frame-8 {
+   border-radius: 48px;
+   display: flex;
+   flex-direction: row;
+   gap: 11px;
+   align-items: center;
+   justify-content: flex-start;
+   width: 1156px;
+   height: 519px;
+   position: absolute;
+   left: 181px;
+   top: 154px;
+}
+
+/* Gaya untuk elemen .frame-4 */
+.frame-4 {
+   display: flex;
+   flex-direction: column;
+   gap: 40px;
+   align-items: flex-start;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   width: 325px;
+   height: 452px;
+   position: relative;
+}
+
+/* Gaya untuk elemen .frame-42 */
+.frame-42 {
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   align-items: flex-start;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   position: relative;
+}
+
+/* Gaya untuk elemen .frame-43 */
+.frame-43 {
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+   align-items: flex-start;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   position: relative;
+}
+
+/* Gaya untuk elemen .cv-maker-platform */
+.cv-maker-platform {
+   color: #265172;
+   text-align: left;
+   font: 700 14px/100% 'Montserrat', sans-serif;
+   text-transform: uppercase;
+   position: relative;
+}
+
+/* Gaya untuk elemen .frame-5 */
+.frame-5 {
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   align-items: flex-start;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   position: relative;
+}
+
+/* Gaya untuk elemen .hi-welcome-to-cravitae */
+.hi-welcome-to-cravitae {
+   color: #265172;
+   text-align: left;
+   font: 400 56px/100% 'Dela Gothic One', sans-serif;
+   position: relative;
+   width: 490px;
+}
+
+/* Gaya untuk elemen .discover-new-job-opportunities-with-connect-and-expand-your-network */
+.discover-new-job-opportunities-with-connect-and-expand-your-network {
+   color: #585858;
+   text-align: left;
+   font: 600 16px/140% 'Montserrat', sans-serif;
+   position: relative;
+   width: 325.47px;
+}
+
+/* Gaya untuk elemen .frame-7 */
+.frame-7 {
+   display: flex;
+   flex-direction: row;
+   gap: 21px;
+   align-items: center;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   position: relative;
+}
+
+/* Gaya untuk elemen .frame-2 */
+.frame-2 {
+   background: #c3dce3;
+   border-radius: 12px;
+   padding: 4px 18px 4px 18px;
+   display: flex;
+   flex-direction: row;
+   gap: 10px;
+   align-items: center;
+   justify-content: center;
+   flex-shrink: 0;
+   height: 36px;
+   position: relative;
+}
+
+/* Gaya untuk elemen .create-your-own */
+.create-your-own {
+   color: #265172;
+   text-align: left;
+   font: 700 14px/100% 'Montserrat', sans-serif;
+   position: relative;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+}
+
+/* Gaya untuk elemen .frame-3 */
+.frame-3 {
+   background: #c3dce3;
+   border-radius: 12px;
+   padding: 4px 18px 4px 18px;
+   display: flex;
+   flex-direction: row;
+   gap: 10px;
+   align-items: center;
+   justify-content: center;
+   flex-shrink: 0;
+   height: 36px;
+   position: relative;
+}
+
+/* Gaya untuk elemen .explore */
+.explore {
+   color: #265172;
+   text-align: left;
+   font: 700 14px/100% 'Montserrat', sans-serif;
+   position: relative;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+}
+
+/* Gaya untuk elemen .frame-82 */
+.frame-82 {
+   display: flex;
+   flex-direction: row;
+   gap: 40px;
+   align-items: center;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   position: relative;
+}
+
+/* Gaya untuk elemen .frame-32 */
+.frame-32 {
+   display: flex;
+   flex-direction: column;
+   gap: 8px;
+   align-items: flex-start;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   position: relative;
+}
+
+/* Gaya untuk elemen .frame-33 */
+.frame-33 {
+   display: flex;
+   flex-direction: row;
+   gap: 8px;
+   align-items: center;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   position: relative;
+}
+
+/* Gaya untuk elemen .vector */
+.vector {
+   flex-shrink: 0;
+   position: relative;
+   overflow: visible;
+}
+
+/* Gaya untuk elemen ._4 */
+._4 {
+   text-align: left;
+   position: relative;
+}
+
+/* Gaya untuk elemen ._4-span */
+._4-span {
+   color: #000000;
+   font: 700 40px/100% 'Montserrat', sans-serif;
+}
+
+/* Gaya untuk elemen ._4-span2 */
+._4-span2 {
+   color: #000000;
+   font: 400 36px/100% 'Montserrat', sans-serif;
+}
+
+/* Gaya untuk elemen ._4-span3 */
+._4-span3 {
+   color: #2b788b;
+   font: 400 36px/100% 'Dela Gothic One', sans-serif;
+}
+
+/* Gaya untuk elemen .clilent */
+.clilent {
+   color: #585858;
+   text-align: left;
+   font: 600 16px/140% 'Montserrat', sans-serif;
+   position: relative;
+   width: 80px;
+}
+
+/* Gaya untuk elemen .vector-1 */
+.vector-1 {
+   flex-shrink: 0;
+   position: relative;
+   overflow: visible;
+}
+
+/* Gaya untuk elemen .frame-83 */
+.frame-83 {
+   display: flex;
+   flex-direction: row;
+   gap: 8px;
+   align-items: center;
+   justify-content: flex-start;
+   flex-shrink: 0;
+   position: relative;
+}
+
+/* Gaya untuk elemen .vector2 */
+.vector2 {
+   flex-shrink: 0;
+   position: relative;
+   overflow: visible;
+}
+
+/* Gaya untuk elemen ._100 */
+._100 {
+   text-align: left;
+   position: relative;
+}
+
+/* Gaya untuk elemen ._100-span */
+._100-span {
+   color: #000000;
+   font: 700 40px/100% 'Montserrat', sans-serif;
+}
+
+/* Gaya untuk elemen ._100-span2 */
+._100-span2 {
+   color: #000000;
+   font: 700 36px/100% 'Montserrat', sans-serif;
+}
+
+/* Gaya untuk elemen ._100-span3 */
+._100-span3 {
+   color: #2b788b;
+   font: 700 36px/100% 'Montserrat', sans-serif;
+}
+
+/* Gaya untuk elemen .likes */
+.likes {
+   color: #585858;
+   text-align: left;
+   font: 600 16px/140% 'Montserrat', sans-serif;
+   position: relative;
+}
+
+/* Gaya untuk elemen .frame-24 */
+.frame-24 {
+   flex-shrink: 0;
+   width: 605px;
+   height: 471px;
+   position: relative;
+}
+
+/* Gaya untuk elemen .image-4s */
+.image-4s {
+   width: 463px;
+   height: 534px;
+   position: absolute;
+   left: 1850px;
+   top: 222px;
+}
+
+.image-4 {
+    width: 463px;
+     height: 534px;
+     position: absolute;
+     left: 850px;
+    top: 222px;
+    }
