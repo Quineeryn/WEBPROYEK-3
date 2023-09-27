@@ -1,0 +1,356 @@
+.home-unregistered,
+.home-unregistered * {
+  box-sizing: border-box;
+}
+.home-unregistered {
+  background: #fff7ef;
+  width: 1440px;
+  height: 860px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-8 {
+  border-radius: 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1156px;
+  height: 435px;
+  position: absolute;
+  left: 181px;
+  top: 154px;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 325px;
+  height: 411px;
+  position: relative;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 381px;
+  position: relative;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cv-maker-platform {
+  color: #265172;
+  text-align: left;
+  font: 700 14px/100% "Montserrat", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.let-s-boost-your-personal-branding {
+  color: #265172;
+  text-align: left;
+  font: 700 56px/100% "Montserrat", sans-serif;
+  position: relative;
+  width: 389.09px;
+}
+.elevate-your-cv-unleash-opportunities-your-path-to-a-captivating-and-impactful-cv-begins-here-join-us-today {
+  color: #585858;
+  text-align: left;
+  font: 600 16px/140% "Montserrat", sans-serif;
+  position: relative;
+  width: 325.47px;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2 {
+  background: #c3dce3;
+  border-radius: 12px;
+  padding: 4px 18px 4px 18px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 36px;
+  position: relative;
+}
+.frame-3 {
+  background: #c3dce3;
+  border-radius: 12px;
+  padding: 4px 18px 4px 18px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 36px;
+  position: relative;
+}
+.frame-72 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 166px;
+  height: 36px;
+  position: relative;
+}
+.frame-24 {
+  flex-shrink: 0;
+  width: 605px;
+  height: 471px;
+  position: relative;
+}
+.frame-82 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 196px;
+  top: 578px;
+}
+.frame-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-33 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vector {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._4 {
+  text-align: left;
+  position: relative;
+}
+._4-span {
+  color: #000000;
+  font: 700 40px/100% "Montserrat", sans-serif;
+}
+._4-span2 {
+  color: #000000;
+  font: 400 36px/100% "Montserrat", sans-serif;
+}
+._4-span3 {
+  color: #2b788b;
+  font: 400 36px/100% "Dela Gothic One", sans-serif;
+}
+.clilent {
+  color: #585858;
+  text-align: left;
+  font: 600 16px/140% "Montserrat", sans-serif;
+  position: relative;
+  width: 80px;
+}
+.vector-1 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-83 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vector2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._100 {
+  text-align: left;
+  position: relative;
+}
+._100-span {
+  color: #000000;
+  font: 700 40px/100% "Montserrat", sans-serif;
+}
+._100-span2 {
+  color: #000000;
+  font: 700 36px/100% "Montserrat", sans-serif;
+}
+._100-span3 {
+  color: #2b788b;
+  font: 700 36px/100% "Montserrat", sans-serif;
+}
+.likes {
+  color: #585858;
+  text-align: left;
+  font: 600 16px/140% "Montserrat", sans-serif;
+  position: relative;
+}
+.section {
+  background: #265172;
+  padding: 10px 100px 10px 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1440px;
+  height: 60px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-9 {
+  border-radius: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1127px;
+  position: relative;
+}
+.frame-52 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cravitae {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20.86px/100% "Dela Gothic One", sans-serif;
+  position: relative;
+}
+.vector-12 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font: 600 14px/100% "Montserrat", sans-serif;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font: 600 14px/100% "Montserrat", sans-serif;
+  position: relative;
+}
+.frame-73 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 6px;
+  position: relative;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font: 700 14px/100% "Montserrat", sans-serif;
+  position: relative;
+}
+.frame-22 {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 11px 18px 11px 18px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sign-up {
+    color: #265172;
+    text-align: left;
+  font: 700 14px/100% "Montserrat", sans-serif;
+  position: relative;
+  width: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ellipse-23 {
+  background: linear-gradient(
+    170.98deg,
+    rgba(255, 255, 255, 0.58) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-radius: 50%;
+  width: 661px;
+  height: 661px;
+  position: absolute;
+  left: 676px;
+  top: 107px;
+  box-shadow: inset 6px -7px 11px 0px rgba(255, 255, 255, 1),
+    inset -10px 27px 21px 0px rgba(0, 0, 0, 0.49);
+  backdrop-filter: blur(9.5px);
+}
+.image-34 {
+  width: 589px;
+  height: 486px;
+  position: absolute;
+  left: 730px;
+  top: 216px;
+}
+.button {
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
